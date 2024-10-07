@@ -51,7 +51,7 @@ Here's a basic example of how to use Nvim - CodeJourney's version:
 ## 🌟 What's Next?
 
 - [ ] Reduce plugins loading time 
-- [ ] Optimize performance for ALl devices (even for smartphones too)
+- [ ] Optimize performance for All devices (even for smartphones too)
 - [ ] Introduce new useful configs
 ## 🧠 Behind the Scenes
 The major reason behind creating Nvim - CodeJourney's version is not to rely on VS Code (TBH).
