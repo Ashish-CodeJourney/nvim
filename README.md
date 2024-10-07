@@ -12,7 +12,7 @@
 
 <figure>
   <img src="https://raw.githubusercontent.com/Ashish-CodeJourney/nvim/refs/heads/master/docs/images/screenshot.png" alt="Nvim-Codejourney's version">
-  <figcaption>Launchpad: Transforming VIM into IDE</figcaption>
+  <figcaption>Nvim - CodeJourney's version: Transforming VIM into IDE</figcaption>
 </figure>
 
 </div>
@@ -50,11 +50,11 @@ Here's a basic example of how to use Nvim - CodeJourney's version:
 
 ## 🌟 What's Next?
 
-- [ ] Implement feature for reducing config load
+- [ ] Reduce plugins loading time 
 - [ ] Optimize performance for ALl devices (even for smartphones too)
-- [ ] Add support for Z
-
+- [ ] Introduce new useful configs
 ## 🧠 Behind the Scenes
+The major reason behind creating Nvim - CodeJourney's version is not to rely on VS Code (TBH).
 
 ### 💡 Inspiration
 Nvim - CodeJourney's version was born from the need to craft a specific Neovim configuration for personal use.
@@ -71,7 +71,7 @@ Nvim - CodeJourney's version was born from the need to craft a specific Neovim c
 <hr>
 
 <div align="center">
-<strong>🌟 If Launchpad has been helpful, consider giving it a star! 🌟</strong><br><br>
+<strong>🌟 If Nvim - CodeJourney's version has been helpful, consider giving it a star! 🌟</strong><br><br>
 <a href="https://github.com/Ashish-CodeJourney">More Projects</a> •
 <a href="https://dev.to/codejourney">Blog</a> •
 <a href="https://twitter.com/codejourney_">Twitter</a> •
