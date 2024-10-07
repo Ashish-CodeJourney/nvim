@@ -11,7 +11,7 @@
 <h3>Elevate Your Coding Journey! with Nvim - CodeJourney's Version 🚀💻</h3>
 
 <figure>
-  <img src="docs/images/screenshot.png" alt="Nvim-Codejourney's version">
+  <img src="https://raw.githubusercontent.com/Ashish-CodeJourney/nvim/refs/heads/master/docs/images/screenshot.png" alt="Nvim-Codejourney's version">
   <figcaption>Launchpad: Transforming VIM into IDE</figcaption>
 </figure>
 
